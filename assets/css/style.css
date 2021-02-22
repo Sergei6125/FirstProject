@@ -1,0 +1,136 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    padding: 30px 20px;
+    background: #EEEFF1;
+}
+.logo {
+    display: inline-block;
+    line-height: ;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+.nav {
+    display: inline-block;
+}
+.nav__list {
+   
+}
+.nav__item {
+    display: inline-block;
+    margin-right: 30px;
+}
+.nav__link {
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+
+    color: #000000;
+
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
+.nav__link:hover,
+.nav__link.active {
+    color: #34547A;
+}
+.header__text{
+    padding: 70px 70px;
+}
+.desktop {
+    display: inline-block;
+    width: 49%;
+}
+.desktop__img {
+    
+    float: right;
+    padding-right: 40px;
+}
+.header__content {
+    display: inline-block;
+    width: 50%;
+}
+
+.header__content__h2 {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+
+    color: #000000;
+}
+.header__content__p{
+
+    line-height: 26px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+
+    color: #727272;
+}
+
+.header__button {
+
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+    background: #34547A;
+
+    color: #FFFFFF;
+    width: 225px;
+    height: 65px;
+    text-transform: uppercase;
+}
+
+.main__about {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+    padding: 40px 40px;
+}
+
+.main__about__h2 {
+    padding: 20px 20px;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+}
+
+.main__about__p {
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #727272;
+}
+
+.main__project{
+    background: #34547A;
+}
+.container{
+    display: inline-block;
+
+}
+.container__img{
+
+}
+.container__text{
+    display: inline-block;
+    padding-left: 10px;
+    color: #FFFFFF;
+    padding-bottom: 0px;
+}
+.container__h3{
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+
+}
+.container__p{
+    font-size: 16px;
+    line-height: 26px;
+    
+}
